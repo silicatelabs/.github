@@ -5,7 +5,7 @@
 ### *The operating layer for serious enterprise work.*
 
 [![Website](https://img.shields.io/badge/Website-silicatelabs-0A0A0A?style=for-the-badge&logo=globe&logoColor=white)](https://silicatelabs.vercel.app)
-[![Pakistan Initiative](https://img.shields.io/badge/🇵🇰_Pakistan_Initiative-006600?style=for-the-badge)](https://silicatelabs.tararholding.com/pakistan.html)
+[![Pakistan Initiative](https://img.shields.io/badge/🇵🇰_Pakistan_Initiative-006600?style=for-the-badge)](https://silicatelabs.vercel.app/pakistan.html)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/usamarehmantarar)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:usamarehmantarar.workmail@gmail.com)
 
