@@ -163,17 +163,7 @@ Proprietary platforms under active development. Free tiers are built to handle r
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=urtworkmail&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=urtworkmail&layout=compact&theme=tokyonight&hide_border=true&count_private=true)
-
-</div>
-
----
 
 ## 🇵🇰 Pakistan Initiative
 
@@ -195,43 +185,3 @@ We are headquartered in Islamabad. Our infrastructure defaults to in-country dat
 
 *Enterprise inquiries: [hello@silicatelabs.io](mailto:hello@silicatelabs.io)*
 
-</div>
-cloc|github.com/AlDanial/cloc v 1.98  T=0.02 s (584.5 files/s, 242141.3 lines/s)
---- | ---
-
-Language|files|blank|comment|code
-:-------|-------:|-------:|-------:|-------:
-HTML|4|427|59|4194
-Markdown|7|236|0|444
-JavaScript|1|40|44|166
-Python|1|15|7|67
-SQL|1|13|40|48
---------|--------|--------|--------|--------
-SUM:|14|731|150|4919
-cloc|github.com/AlDanial/cloc v 1.98  T=0.02 s (587.8 files/s, 244017.0 lines/s)
---- | ---
-
-Language|files|blank|comment|code
-:-------|-------:|-------:|-------:|-------:
-HTML|4|427|59|4194
-Markdown|7|237|0|455
-JavaScript|1|40|44|166
-Python|1|15|7|67
-SQL|1|13|40|48
---------|--------|--------|--------|--------
-SUM:|14|732|150|4930
-cloc|github.com/AlDanial/cloc v 1.98  T=0.07 s (416.6 files/s, 392840.2 lines/s)
---- | ---
-
-Language|files|blank|comment|code
-:-------|-------:|-------:|-------:|-------:
-JSON|2|0|0|18593
-HTML|6|552|69|5411
-Python|5|204|126|961
-Markdown|9|362|0|902
-JavaScript|4|73|50|764
-CSS|1|13|3|90
-SQL|1|13|40|48
-Text|2|0|0|12
---------|--------|--------|--------|--------
-SUM:|30|1217|288|26781
